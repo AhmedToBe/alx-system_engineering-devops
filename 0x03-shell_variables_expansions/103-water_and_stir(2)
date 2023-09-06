@@ -1,2 +1,0 @@
-#!/bin/bash
-(echo "ibase=water"; echo "obase=bestchol"; echo "$WATER + $STIR") | bc
